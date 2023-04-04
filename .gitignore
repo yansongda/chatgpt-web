@@ -13,6 +13,7 @@ dist
 dist-ssr
 coverage
 *.local
+yarn.lock
 
 /cypress/videos/
 /cypress/screenshots/
@@ -30,3 +31,4 @@ coverage
 
 # Environment variables files
 /service/.env
+/service/yarn.lock
